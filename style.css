@@ -204,6 +204,9 @@ small{
 }
 
 @media only screen and (max-width: 940px) {
+    header{
+        background-image: url(./images/bg-hero-mobile.svg);
+    }
     button{
         padding: .6rem 2rem;
     }
